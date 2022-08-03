@@ -1,6 +1,9 @@
 # Honey-TCC 🍯
 Honeywell Total Connect Comfort Interface
 
+[![npm package](https://nodei.co/npm/honey-tcc.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/honey-tcc/)
+
+[![Known Vulnerabilities](https://snyk.io/test/npm/honey-tcc/badge.svg?style=flat-square)](https://snyk.io/test/npm/honey-tcc)
 ## Installation
 
 `npm install honey-tcc`
