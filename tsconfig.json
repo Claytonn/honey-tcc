@@ -17,23 +17,11 @@
         "typeRoots": [
             "../types"
         ],
-        "paths": {
-            "@/src/*": [
-                "src/*"
-            ],
-            "@/sources/*": [
-                "src/sources/*"
-            ],
-            "@/utils/*": [
-                "src/utils/*"
-            ],
-        }
     },
     "exclude": [
         "node_modules"
     ],
     "include": [
-        "next-env.d.ts",
         "src/**/*",
         "types"
     ]
