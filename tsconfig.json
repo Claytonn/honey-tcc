@@ -1,0 +1,40 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": false,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "outDir": "dist",
+        "rootDir": "./src/",
+        "baseUrl": "./",
+        "typeRoots": [
+            "../types"
+        ],
+        "paths": {
+            "@/src/*": [
+                "src/*"
+            ],
+            "@/sources/*": [
+                "src/sources/*"
+            ],
+            "@/utils/*": [
+                "src/utils/*"
+            ],
+        }
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "next-env.d.ts",
+        "src/**/*",
+        "types"
+    ]
+}
