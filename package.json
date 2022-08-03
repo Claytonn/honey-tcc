@@ -18,6 +18,13 @@
     "honey-tcc",
     "legacy"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Claytonn/honey-tcc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Claytonn/honey-tcc/issues"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.6.2",
