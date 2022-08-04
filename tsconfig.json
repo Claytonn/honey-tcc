@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "target": "ES6",
+        "target": "ES2020",
         "allowJs": true,
         "skipLibCheck": true,
         "strict": false,
@@ -20,6 +20,7 @@
     ],
     "include": [
         "src/**/*",
-        "types"
+        "types",
+        "utils"
     ]
 }
