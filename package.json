@@ -1,6 +1,6 @@
 {
   "name": "honey-tcc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Honeywell Total Connect Comfort Interface",
   "main": "dist/index.js",
   "scripts": {
